@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+        .layout {
+        border: 3.5px solid black;
+        border-radius: 40px;
+        width: 30%;
+        height: 50%;
+        box-sizing: border-box;
+        background-color: rgb(209, 196, 196);
+        padding: 20px;
+        text-align: center;
+      }
+      .green {
+        background-color: green;
+        height: 100px;
+        width: 100px;
+        border-radius: 50px;
+        display: inline-block;
+        margin: 1px;
+      }
+      .yellow {
+        background-color: yellow;
+        height: 100px;
+        width: 100px;
+        border-radius: 50px;
+        display: inline-block;
+        margin: 1px;
+      }
+      .red {
+        background-color: red;
+        height: 100px;
+        width: 100px;
+        border-radius: 50px;
+        display: inline-block;
+        margin: 1px;
+      }
